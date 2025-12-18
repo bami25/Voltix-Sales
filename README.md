@@ -1,12 +1,12 @@
 # Project Background
-Spun Electronics, established in 2014, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
+Voltix Electronics, established in 2014, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
 
-The company has significant amounts of data on its sales, marketing efforts, operations, product offerings, and loyalty program that has been previously underutilized. In this project I analyzed and synthesizes this data to uncover crucial insights that will improve Spun Electronics' commercial success.
+The company has significant amounts of data on its sales, marketing efforts, operations, product offerings, and loyalty program that has been previously underutilized. In this project I analyzed and synthesizes this data to uncover crucial insights that will improve Voltix Electronics' commercial success.
 
 Insights and recommendations are provided on the following key areas:
 
 - **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value.
-- **Product Level Performance:**  An analysis of Spun Electronics, various product lines, understanding their impact on sales and returns.
+- **Product Level Performance:**  An analysis of Voltix Electronics, various product lines, understanding their impact on sales and returns.
 - **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.
 - **Regional Comparisons:** An evaluation of sales and orders by region.
 
@@ -22,7 +22,7 @@ Targeted SQL queries regarding various business questions can be found [here.](h
 
 # Data Structure & Initial Checks
 
-Spun Electronics' database structure contains four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
+Voltix Electronics' database structure contains four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
 
 ![Spun Electronics ERD](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics%20ERD.png)
 
@@ -93,7 +93,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ### Recommendations:
 
-Based on the uncovered insights, the following recommendations have been provided: 
+Based on the uncovered insights, the following I provided the following recommendations: 
 
 * With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. **Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.**
   
