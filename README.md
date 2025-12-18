@@ -1,7 +1,7 @@
 # Project Background
 Voltix Electronics, established in 2014, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
 
-The company has significant amounts of data on its sales, marketing efforts, operations, product offerings, and loyalty program that has been previously underutilized. In this project I analyzed and synthesizes this data to uncover crucial insights that will improve Voltix Electronics' commercial success.
+The company has significant amounts of data on its sales, marketing efforts, operations, product offerings, and loyalty program that has been previously underutilized. In this project I analyzed and synthesized this data to uncover crucial insights that will improve Voltix Electronics' commercial success.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 
 
-An interactive PowerBI dashboard can be downloaded [here.](https://github.com/bami25/Voltix-Sales/blob/main/Voltix%20Electronics%20pbi.pbix) click raw to download.
+An interactive PowerBI dashboard can be downloaded [here.](https://github.com/bami25/Voltix-Sales/blob/main/Voltix%20Electronics%20pbi.pbix) (Use the “Raw” button to download the file.)
 
 The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/bami25/Voltix-Sales/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
@@ -72,7 +72,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 * The loyalty program has grown in popularity since its implementation in 2019. Members as a share of revenue peaked in April 2022 at 62%. **On an annual basis, members have increased to 55% of revenue, up from 8% in 2019.**
   
-* In 2022, l**oyalty members spent almost $35 more on average than non-members ($251 to $216)**. Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.
+* In 2022, **Loyalty members spent almost $35 more on average than non-members ($251 vs $216).**. Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.
   
 * Non-members have historically outspent on their first orders with the company, but on **returning orders members outspent by nearly $60 in 2022.**
 
@@ -93,7 +93,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ### Recommendations:
 
-Based on the uncovered insights, the following I provided the following recommendations: 
+Based on the uncovered insights, the following recommendations were provided: 
 
 * With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. **Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.**
   
